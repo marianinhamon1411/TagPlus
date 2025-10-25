@@ -3,6 +3,8 @@ Mariana Monteiro Dantas
 
 QA Junior Playwright Frontend
 
+Repositório: [https://github.com/marianinhamon1411/TagPlus](https://github.com/marianinhamon1411/TagPlus)
+
 Automação dos seguintes fluxos:
 
 #Login com sucesso e com dados incorretos#
@@ -13,4 +15,18 @@ Automação dos seguintes fluxos:
 
 #Finalizar uma compra com 2 ou mais produtos#
     Validação: mensagem Thank you for your order!
+
+#Pré-requisitos#
+- Node.js
+- Git
+- Visual Studio Code
+
+#Extensão para visualizar seletor#
+- SelectorsHub
+
+#Clone#
+- git clone https://github.com/marianinhamon1411/TagPlus.git
+- cd TagPlus/qa-junior-playwright-frontend
+
+
 
